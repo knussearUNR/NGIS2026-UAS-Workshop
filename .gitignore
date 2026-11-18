@@ -1,0 +1,19 @@
+# R session files
+.Rhistory
+.RData
+Rplots.pdf
+.Rproj.user/
+*.Rproj
+
+# Outputs the scripts write (rerun the scripts to make them)
+Part1 Planning/VegTransectWorkup/UAS_KML_Files/
+Part1 Planning/VegTransectWorkup/Activity1_output/
+Part2 ExifPhotoSorter/T95_output/
+Part2 ExifPhotoSorter/Activity2_output*/
+Part2 ExifPhotoSorter/ExifShiny/export/
+
+# Office and OS clutter
+~$*
+.~lock*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>tranz_group_95</name>
+  <Placemark id="tranz_group_95.1">
+	<name>W2-78</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.012849645977,35.4080301351066 -115.013179914801,35.4080282136915 -115.013184609694,35.4085689929781 -115.012295856232,35.4085741612547 -115.011965585275,35.4085760801768 -115.011960898535,35.4080353011098 -115.012849645977,35.4080301351066</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="tranz_group_95.2">
+	<name>W2-43</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.010716142919,35.4008100722294 -115.011045854579,35.4007946769306 -115.011083461777,35.4013345927122 -115.010242538267,35.4013738561548 -115.009912824196,35.4013892491756 -115.009875224819,35.4008493332887 -115.010716142919,35.4008100722294</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="tranz_group_95.3">
+	<name>U2-41</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.003315812908,35.4099583649316 -115.003318854088,35.4102287487864 -115.002658312444,35.4102337264213 -115.002650355135,35.4095257517494 -115.002647316102,35.4092553679223 -115.003307849752,35.4092503900845 -115.003315812908,35.4099583649316</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="tranz_group_95.4">
+	<name>U2-75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.004753011798,35.4026276916225 -115.004766178951,35.402897872412 -115.004106193817,35.4029194318028 -115.004071890734,35.4022154365486 -115.004058725903,35.4019452557343 -115.004718703077,35.4019236963394 -115.004753011798,35.4026276916225</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="tranz_group_95.5">
+	<name>U2-180</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.004283353798,35.4060633013771 -115.004259001086,35.4063329608895 -115.003600261496,35.4062930831697 -115.003664317219,35.4055838478904 -115.00368867156,35.4053141885241 -115.004347403269,35.4053540655072 -115.004283353798,35.4060633013771</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="tranz_group_95.6">
+	<name>U2-136</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.001148760811,35.4039676084169 -115.001137238038,35.4042378391197 -115.000477120244,35.4042189690372 -115.000508402933,35.4034854646786 -115.000519927572,35.4032152340697 -115.00118003721,35.4032341036521 -115.001148760811,35.4039676084169</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="tranz_group_95.7">
+	<name>U2-284</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.006474157295,35.3992852440257 -115.006453350102,35.3995551029 -115.005794179369,35.3995210278306 -115.005849055756,35.3988093783922 -115.005869864646,35.3985395196506 -115.006529027458,35.3985735940507 -115.006474157295,35.3992852440257</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

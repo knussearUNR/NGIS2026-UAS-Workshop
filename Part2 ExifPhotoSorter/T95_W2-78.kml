@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>T95_W2_78</name>
+  <Placemark id="T95_W2_78.1">
+	<name>W2-78</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-115.012849645977,35.4080301351066 -115.013179914801,35.4080282136915 -115.013184609694,35.4085689929781 -115.012295856232,35.4085741612547 -115.011965585275,35.4085760801768 -115.011960898535,35.4080353011098 -115.012849645977,35.4080301351066</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
